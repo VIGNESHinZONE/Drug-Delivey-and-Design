@@ -33,4 +33,9 @@ https://reader.elsevier.com/reader/sd/pii/S0378437118315425?token=9225F5AE241FB6
 
 its a review paper , Mechanism of Drug Release, Effects and Properties, Kinetic of drug release
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3648939/
+      a) Main Paper
+      https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3648939/
+
+      b)http://jpsbr.com/index_htm_files/3_1151.pdf
+        https://pdfs.semanticscholar.org/76bc/cd18e5072b6596a670bf456e9d5363af9fab.pdf
+        https://www.idealcures.com/solutions/excipients_for_hydrophilic_matrix_tablets
