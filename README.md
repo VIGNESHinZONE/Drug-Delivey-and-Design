@@ -39,3 +39,9 @@ its a review paper , Mechanism of Drug Release, Effects and Properties, Kinetic 
       b)http://jpsbr.com/index_htm_files/3_1151.pdf
         https://pdfs.semanticscholar.org/76bc/cd18e5072b6596a670bf456e9d5363af9fab.pdf
         https://www.idealcures.com/solutions/excipients_for_hydrophilic_matrix_tablets
+
+6) Evaluating Intra-Articular Drug Delivery for the Treatment of Osteoarthritis in a Rat Model (Review Paper) 50%
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817653/
+
+https://reader.elsevier.com/reader/sd/pii/S1063458419309264?token=F4EE2A2EFFE5ADB495A0E641B6F5AEF7392A6F6FC318AE6AD55593EA2330BDB533AD4097AE74355A290A7856002934B0
+
