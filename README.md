@@ -45,3 +45,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817653/
 
 https://reader.elsevier.com/reader/sd/pii/S1063458419309264?token=F4EE2A2EFFE5ADB495A0E641B6F5AEF7392A6F6FC318AE6AD55593EA2330BDB533AD4097AE74355A290A7856002934B0
 
+7) tubercolosis
+a)https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3076728/
+b)https://www.aiin.healthcare/topics/diagnostics/harvard-machine-learning-model-drug-resistant-tb
+c)https://www.biorxiv.org/content/biorxiv/early/2018/03/03/275628.full.pdf
+d)https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312000/
+e)https://www.ncbi.nlm.nih.gov/pubmed/28237034
+
