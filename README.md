@@ -51,4 +51,6 @@ b)https://www.aiin.healthcare/topics/diagnostics/harvard-machine-learning-model-
 c)https://www.biorxiv.org/content/biorxiv/early/2018/03/03/275628.full.pdf
 d)https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312000/
 e)https://www.ncbi.nlm.nih.gov/pubmed/28237034
+f) first and second drugs
+https://www.intechopen.com/books/tuberculosis-current-issues-in-diagnosis-and-management/first-and-second-line-drugs-and-drug-resistance#targetText=First%2Dline%20antituberculosis%20drugs%2D%20Isoniazid,)%20and%20streptomycin%20(SM).&targetText=Fluoroquinolones%2D%20Ofloxacin%20(OFX)%2C,)%20and%20capreomycin%20(CAP).
 
