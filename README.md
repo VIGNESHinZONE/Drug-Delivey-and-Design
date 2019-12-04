@@ -1,5 +1,5 @@
 # Drug-Delivey-and-Design
-
+**will soon be adding papers on inverse design and QML**
 It has a list of all the papers and blogs i have read on drug delivey and design
 
 1)Materials of Drug Delivery ------------->   10%
